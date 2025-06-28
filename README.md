@@ -62,6 +62,9 @@
         style="height: 24px"
       />
     </a>
+    <a href="https://dependents.info/sse-icons/auth" target="_blank">
+      <img src="https://dependents.info/sse-icons/auth/badge" alt="Developer-Icons GitHub Network Dependents" style="height:24px" />
+    </a>
     <a
       href="https://github.com/sse-auth/icons/stargazers"
       target="_blank"
